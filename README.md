@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-弱小和无知不是生存的障碍，傲慢才是！
+Done is better than perfect！
 
 <!--
 **SoarYu/SoarYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
